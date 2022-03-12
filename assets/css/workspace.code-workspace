@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\f8-shop"
+		},
+		{
+			"path": "..\\..\\..\\w3-band"
+		},
+		{
+			"path": "..\\..\\..\\test"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\lab1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bem-demo"
+	}
+}
